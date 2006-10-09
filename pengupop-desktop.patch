@@ -1,0 +1,17 @@
+--- pengupop-2.1.8/pengupop.desktop~	2006-10-09 21:53:23.000000000 +0200
++++ pengupop-2.1.8/pengupop.desktop	2006-10-09 21:51:55.000000000 +0200
+@@ -1,11 +1,11 @@
+ [Desktop Entry]
+-Version=1.0
+ Encoding=UTF-8
+ Name=Pengupop
+ Comment=Networked Game in the vein of Move/Puzzle Bobble
++Comment[pl]=Sieciowa gra podobna do Move/Puzzle Bobble
+ Exec=pengupop
+-StartupNotify=false
+ Terminal=false
+ Type=Application
+ Icon=pengupop.png
+-Categories=Application;Game;ArcadeGame;
++Categories=Game;ArcadeGame;
++# vi: encoding=utf-8
