@@ -10,8 +10,8 @@ Source0:	http://www.junoplay.com/files/%{name}-%{version}.tar.gz
 Patch0:		%{name}-desktop.patch
 URL:		http://www.junoplay.com/
 BuildRequires:	SDL-devel >= 1.2
-BuildRequires:  autoconf
-BuildRequires:  automake
+BuildRequires:	autoconf
+BuildRequires:	automake
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
