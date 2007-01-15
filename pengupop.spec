@@ -1,12 +1,12 @@
 Summary:	Clone of the game Bust a Move
 Summary(pl):	Klon gry Bust a Move
 Name:		pengupop
-Version:	2.1.12
+Version:	2.2.0
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications/Games
 Source0:	http://www.junoplay.com/files/%{name}-%{version}.tar.gz
-# Source0-md5:	8f7411de09acb733cb6e8d32ca77d4af
+# Source0-md5:	02b84528682e98a8ed4fb30e80f5548f
 Patch0:		%{name}-desktop.patch
 URL:		http://www.junoplay.com/
 BuildRequires:	SDL-devel >= 1.2
