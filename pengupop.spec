@@ -1,5 +1,5 @@
 Summary:	Clone of the game Bust a Move
-Summary(pl):	Klon gry Bust a Move
+Summary(pl.UTF-8):   Klon gry Bust a Move
 Name:		pengupop
 Version:	2.2.2
 Release:	1
@@ -20,11 +20,11 @@ colored groups, causing them to fall out of the screen. You can either
 win by clearing your entire field, or lose if any balls attach below
 the white line near the bottom.
 
-%description -l pl
-Celem tej gry jest strzelanie kolorowymi pi³kami tak, aby utworzy³y
-one jednokolorowe grupy, które znikaj± z ekranu. Aby wygraæ nale¿y
-wyczy¶ciæ ca³e pole z pi³ek, natomiast gracz przegrywa, gdy jedna z
-pi³ek przekroczy bia³± liniê na dole ekranu.
+%description -l pl.UTF-8
+Celem tej gry jest strzelanie kolorowymi piÅ‚kami tak, aby utworzyÅ‚y
+one jednokolorowe grupy, ktÃ³re znikajÄ… z ekranu. Aby wygraÄ‡ naleÅ¼y
+wyczyÅ›ciÄ‡ caÅ‚e pole z piÅ‚ek, natomiast gracz przegrywa, gdy jedna z
+piÅ‚ek przekroczy biaÅ‚Ä… liniÄ™ na dole ekranu.
 
 %prep
 %setup -q
