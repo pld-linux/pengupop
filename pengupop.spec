@@ -1,5 +1,5 @@
 Summary:	Clone of the game Bust a Move
-Summary(pl.UTF-8):   Klon gry Bust a Move
+Summary(pl.UTF-8):	Klon gry Bust a Move
 Name:		pengupop
 Version:	2.2.2
 Release:	1
