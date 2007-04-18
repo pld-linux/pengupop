@@ -6,7 +6,7 @@ Release:	1
 License:	GPL v2+
 Group:		X11/Applications/Games
 Source0:	http://www.junoplay.com/files/%{name}-%{version}.tar.gz
-# Source0-md5:	b37a211a4bb3179bf622c90a06c21bb2
+# Source0-md5:	31cb21f9b9f0cc92076a0361b4fea09b
 Patch0:		%{name}-desktop.patch
 URL:		http://www.junoplay.com/
 BuildRequires:	SDL-devel >= 1.2
