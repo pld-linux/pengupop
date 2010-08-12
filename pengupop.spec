@@ -8,7 +8,7 @@ Group:		X11/Applications/Games
 Source0:	http://www.junoplay.com/files/%{name}-%{version}.tar.gz
 # Source0-md5:	87a74eba1737152161dedff35667a1d3
 Patch0:		%{name}-desktop.patch
-URL:		http://www.junoplay.com/
+URL:		http://freshmeat.net/projects/pengupop
 BuildRequires:	SDL-devel >= 1.2
 BuildRequires:	autoconf
 BuildRequires:	automake
