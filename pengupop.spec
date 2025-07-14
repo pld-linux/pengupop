@@ -29,7 +29,7 @@ piłek przekroczy białą linię na dole ekranu.
 
 %prep
 %setup -q
-%patch0 -p1
+%patch -P0 -p1
 
 %build
 %{__aclocal}
